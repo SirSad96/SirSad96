@@ -1,10 +1,17 @@
 ### Oi rapaziada👋
 
+Meu nome é Leo (mas pode me chamar de Sad)
+
+¹Estou estudando na Alura;
+
+²Estou me desenvolvendo na linguagem JavaScript
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+²Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
+
+SOU MEIO RUIM MAS TENTAREI.
+
+
 <!--
-**SirSad96/SirSad96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Meu nome é Leo
-
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+**SirSad96/SirSad96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

@@ -10,7 +10,7 @@ Meu nome é Leo (mas pode me chamar de Sad)
 
 ²Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
-SOU MEIO RUIM MAS TENTAREI.
+SOU BEM RUIM MAS TENTAREI.
 
 
 <!--

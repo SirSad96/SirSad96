@@ -4,7 +4,7 @@ Meu nome é Leo (mas pode me chamar de Sad)
 
 ¹Estou estudando na Alura;
 
-²Estou me desenvolvendo na linguagem JavaScript
+³Estou me desenvolvendo na linguagem JavaScript
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
